@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Mixture Conditional Regression with Ultrahigh Dimensional Text Data for Estimating Extralegal Factor Effects"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-03-05-paper-MCR
+date: 2024-03-05
+venue: 'The Annals of Applied Statistics'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-3/Mixture-conditional-regression-with-ultrahigh-dimensional-text-data-for-estimating/10.1214/24-AOAS1893.full)'
+citation: 'Jiaxin Shi. Fang Wang. Yuan Gao. Xiaojun Song. Hansheng Wang. "Mixture conditional regression with ultrahigh dimensional text data for estimating extralegal factor effects." Ann. Appl. Stat. 18 (3) 2532 - 2550, September 2024. https://doi.org/10.1214/24-AOAS1893'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/publication/382943828_MIXTURE_CONDITIONAL_REGRESSION_WITH_ULTRAHIGH_DIMENSIONAL_TEXT_DATA_FOR_ESTIMATING_EXTRALEGAL_FACTOR_EFFECTS)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
