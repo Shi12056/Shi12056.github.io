@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-03-05-paper-MCR
 date: 2024-03-05
 venue: 'The Annals of Applied Statistics'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-3/Mixture-conditional-regression-with-ultrahigh-dimensional-text-data-for-estimating/10.1214/24-AOAS1893.full)'
+paperurl: '(https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-3/Mixture-conditional-regression-with-ultrahigh-dimensional-text-data-for-estimating/10.1214/24-AOAS1893.full)'
 citation: 'Jiaxin Shi. Fang Wang. Yuan Gao. Xiaojun Song. Hansheng Wang. "Mixture conditional regression with ultrahigh dimensional text data for estimating extralegal factor effects." Ann. Appl. Stat. 18 (3) 2532 - 2550, September 2024. https://doi.org/10.1214/24-AOAS1893'
 ---
 
