@@ -16,14 +16,14 @@ I am currently a Ph.D. student in Statistics from Guanghua School of Management,
 Education
 ======
 - B.S. in Statistics, Sun Yat-Sen University, 2019.09-2023.06
-- Ph.D. in Statistics, Peking University, 2023.09-2028.06 (expected)
+- Ph.D. in Statistics, Peking University, 2023.09-present
 
 
 Research Interests
 ======
 1. High dimensional data analysis;
 2. Latent structure, factor models, network analysis;
-3. Applied statistics: computational criminology.
+3. Applied statistics.
 
 Honors and Awards
 ======
