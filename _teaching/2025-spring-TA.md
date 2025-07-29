@@ -2,7 +2,7 @@
 title: "Course: Acedemic Writing"
 collection: teaching
 type: "TA"
-permalink: /teaching/2024-spring-TA
+permalink: /teaching/2025-spring-TA
 venue: "Peking University, Guanghua Schooll of Management"
 date: 2025-4-8
 location: "Beijing, China"
