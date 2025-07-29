@@ -2,13 +2,10 @@
 title: "Course: Acedemic Writing"
 collection: teaching
 type: "TA"
-permalink: /teaching/2024-spring-TA
+permalink: /teaching/2025-fall-TA-2
 venue: "Peking University, Guanghua Schooll of Management"
-date: 2024-4-8
+date: 2025-9-8
 location: "Beijing, China"
 ---
 
-This is a course named《学术思想与学术写作》 or *Acamedmic Writing*.
-I helped six master students to draft, revise, and polish their articles.
-My TA partners including [Helenology](https://github.com/Helenology), [
-Jamesyu420](https://github.com/Jamesyu420), [jinlinqishichizhongwu](https://github.com/jinlinqishichizhongwu), and others.
+This is a course named《深度学习与人工智能》 or *Deep Learning and Artificial Intelligence*, for UG & PG students. The instructor of this course is Prof. Hansheng Wang. My TA partners are Xuetong Li and Hong Chang.
