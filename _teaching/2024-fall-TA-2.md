@@ -1,10 +1,10 @@
 ---
-title: "Course: Acedemic Writing"
+title: "Course: Deep Learning and Artificial Intelligence (UG & PG)"
 collection: teaching
 type: "TA"
-permalink: /teaching/2025-fall-TA-2
+permalink: /teaching/2024-fall-TA-2
 venue: "Peking University, Guanghua Schooll of Management"
-date: 2025-9-8
+date: 2024-9-8
 location: "Beijing, China"
 ---
 
