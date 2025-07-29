@@ -12,19 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. in Statistics, Sun Yat-Sen University, 2019.09-2023.06
-* Ph.D in Statistics, Peking University, 2023.09-2028.06 (expected)
+* Ph.D. in Statistics, Peking University, 2023.09-present
 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
