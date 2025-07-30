@@ -18,7 +18,7 @@ Second Year (2024-2025)
 |---|---|---|---|
 | 2025/4/18-2025/4/20  |  [2025年CSAYS年会暨第三届统计理论及其应用国际研讨会](https://mp.weixin.qq.com/s/FqglvcBVHSglWE2Qe1njuw) | Invited Talk| Network RF|
 | 2025/5/9-2025/5/11  |  [中国现场统计研究会贝叶斯统计分会成立大会暨首届学术年会]([https://www.zjuyh.com/data2023en/rb?language=en-us](https://mp.weixin.qq.com/s/uPQx373Sw6f3ulizb1mWyA)) | Invited Talk|[MCR](https://github.com/Shi12056/MCR) |
-| 2025/6/5| 第九届北大-清华统计论坛 | Poster|Factor model for binary variables|
+| 2025/6/5| 第九届北大-清华统计论坛 | Poster| BinaryFactor |
 | 2025/6/29-2025/7/2  |  [The 45th International Symposium on Forecasting，ISF](https://forecasters.org/events/symposium-on-forecasting/) | Invited Talk| Network RF |
 | 2025/8/20-2025/8/23| [EcoSta 2025](https://www.cmstatistics.org/EcoSta2025/index.php) | Invited Talk |[MCR](https://github.com/Shi12056/MCR) |
 
