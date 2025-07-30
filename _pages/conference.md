@@ -16,7 +16,7 @@ Second Year (2024-2025)
 
 |  Date | Conference  | Type  | Topic|
 |---|---|---|---|
-| 2025/4/18-2025/4/20  |  [全国工业统计学教学研究会青年统计学家协会2025年年会暨第三届统计理论及其应用国际研讨会](https://mp.weixin.qq.com/s/FqglvcBVHSglWE2Qe1njuw) | Invited Talk| Network RF|
+| 2025/4/18-2025/4/20  |  [2025年CSAYS年会暨第三届统计理论及其应用国际研讨会](https://mp.weixin.qq.com/s/FqglvcBVHSglWE2Qe1njuw) | Invited Talk| Network RF|
 | 2025/5/9-2025/5/11  |  [中国现场统计研究会贝叶斯统计分会成立大会暨首届学术年会]([https://www.zjuyh.com/data2023en/rb?language=en-us](https://mp.weixin.qq.com/s/uPQx373Sw6f3ulizb1mWyA)) | Invited Talk|[MCR](https://github.com/Shi12056/MCR) |
 | 2025/6/5| 第九届北大-清华统计论坛 | Poster|Factor model for binary variables|
 | 2025/6/29-2025/7/2  |  [The 45th International Symposium on Forecasting，ISF](https://forecasters.org/events/symposium-on-forecasting/) | Invited Talk| Network RF |
@@ -39,3 +39,11 @@ First Year (2023-2024)
 | 2024/7/11-2024/7/15| [JCSDS 2024](https://jcsds2024.scimeeting.cn/cn/web/index/19820_1617490) | Talk |[MCR](https://github.com/Shi12056/MCR) |
 | 2024/7/17-2024/7/19| [EcoSta 2024](https://www.cmstatistics.org/EcoSta2024/index.php) | Invited Talk |[MCR](https://github.com/Shi12056/MCR) |
 | 2024/7/20-2024/7/22| 第17届中国R会议 & 2024 X 智能大会 & 2024 数据科学国际论坛联合会议 | Talk |[MCR](https://github.com/Shi12056/MCR) |
+
+Online Talks
+======
+This is an online sharing of the [MCR](https://github.com/Shi12056/MCR) article.
+[More information here](https://www.bilibili.com/video/BV19b421J7MS/?spm_id_from=333.999.list.card_archive.click&vd_source=a5bbe4862f2df24c1d57b2f73b1b68f0)
+
+
+
