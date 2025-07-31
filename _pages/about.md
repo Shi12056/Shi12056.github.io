@@ -10,7 +10,7 @@ redirect_from:
 
 ![My photo](/images/pre.jpg)
 
-I am currently a Ph.D. student in Statistics from Guanghua School of Management, Peking University, under the supervision of [Prof. Hansheng Wang](https://en.gsm.pku.edu.cn/faculty/hansheng/). If you want to reach me, please email me at `jxshi0stat@gmail.com` .
+I am currently a Ph.D. candidate in Statistics from Guanghua School of Management, Peking University, under the supervision of [Prof. Hansheng Wang](https://en.gsm.pku.edu.cn/faculty/hansheng/). If you want to reach me, please email me at `jxshi0stat@gmail.com` .
 
 
 Education
