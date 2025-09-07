@@ -3,7 +3,7 @@ title: "High-Dimensional Spatial Autoregression with Latent Factors by Diversifi
 collection: publications
 permalink: /publication/2025-08-31-paper-FactorSAR
 date: 2025-08-31
-venue: 'Journal of the American Statistical Association'
+venue: 'Journal of the American Statistical Association, accepted'
 paperurl: ' '
 ---
 
