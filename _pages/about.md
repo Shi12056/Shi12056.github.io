@@ -32,4 +32,4 @@ Honors and Awards
 - **Outstanding Graduate**, Sun Yat-Sen University, 2023
 - **National Scholarship**, Ministry of Education of the People’s Republic of China, 2019-2021
 - First-class scholarship of Sun Yat-Sen University, 2019-2022
-- The 13th Sun Yat-sen University School of Management Li Xuerou Foundation Scholarships, 2022
+- The 13th Sun Yat-Sen University School of Management Li Xuerou Foundation Scholarships, 2022
