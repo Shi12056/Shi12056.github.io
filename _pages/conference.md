@@ -45,5 +45,7 @@ Online Talks
 This is an online sharing of the [MCR](https://github.com/Shi12056/MCR) article.
 [More information here](https://www.bilibili.com/video/BV19b421J7MS/?spm_id_from=333.999.list.card_archive.click&vd_source=a5bbe4862f2df24c1d57b2f73b1b68f0)
 
+This is an online sharing of the [FactorSAR](https://github.com/Shi12056/FactorSAR) article.
+[More information here](https://www.bilibili.com/video/BV1SypNzTEbA/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=a5bbe4862f2df24c1d57b2f73b1b68f0)
 
 
