@@ -15,7 +15,7 @@ I am currently a Ph.D. candidate in Statistics from Guanghua School of Managemen
 
 Education
 ======
-- B.S. in Statistics, Sun Yat-Sen University, 2019.09-2023.06
+- B.S. in Statistics, Sun Yat-sen University, 2019.09-2023.06
 - Ph.D. in Statistics, Peking University, 2023.09-present
 
 
@@ -29,7 +29,7 @@ Honors and Awards
 ======
 - **Merit Student**, Peking University, 2024
 - **Lingrui Scholarship**, Guanghua School of Management, Peking University, 2024
-- **Outstanding Graduate**, Sun Yat-Sen University, 2023
+- **Outstanding Graduate**, Sun Yat-sen University, 2023
 - **National Scholarship**, Ministry of Education of the People’s Republic of China, 2019-2021
-- First-class scholarship of Sun Yat-Sen University, 2019-2022
-- The 13th Sun Yat-Sen University School of Management Li Xuerou Foundation Scholarships, 2022
+- First-class scholarship of Sun Yat-sen University, 2019-2022
+- The 13th Sun Yat-sen University School of Management Li Xuerou Foundation Scholarships, 2022
