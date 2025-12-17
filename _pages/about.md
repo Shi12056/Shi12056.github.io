@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{%![My photo](/images/pre.jpg)%}
-<img src="/images/pre.jpg" alt="My photo" width="50%">
+<img src="/images/pre.jpg" alt="My photo" width="70%">
 
 I am currently a Ph.D. candidate in Statistics from Guanghua School of Management, Peking University, under the supervision of [Prof. Hansheng Wang](https://en.gsm.pku.edu.cn/faculty/hansheng/). If you want to reach me, please email me at `jxshi0stat@gmail.com` .
 
