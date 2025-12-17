@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=qC6KNqUAAAAJ&hl=en&oi=sra)}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{(https://scholar.google.com/citations?user=qC6KNqUAAAAJ&hl=en&oi=sra)}}">my Google Scholar profile</a>.</u>
 
 - **Shi, J.**, Zhu, X.\*, Zhou, J., Yu, B., and Wang, H. (2025+). High-Dimensional Spatial Autoregression with Latent Factors by Diversified Projections. *Journal of the American Statistical Association*, (just-accepted), 1-21. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2562644) [[Code]](https://github.com/Shi12056/FactorSAR.git)[[Talk]](https://www.bilibili.com/video/BV1SypNzTEbA/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=a5bbe4862f2df24c1d57b2f73b1b68f0)
 - **Shi, J.**, Gao, Y.\*, Pan, R., and Wang, H. (2025+), A latent factor model for high-dimensional binary data. *Journal of Multivariate Analysis*, (just-accepted). [[Paper]](https://doi.org/10.1016/j.jmva.2025.105554) 
