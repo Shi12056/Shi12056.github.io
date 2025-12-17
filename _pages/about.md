@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/pre.jpg" alt="My photo" width="80%">
-
-I am currently a Ph.D. candidate in Statistics from Guanghua School of Management, Peking University, under the supervision of [Prof. Hansheng Wang](https://en.gsm.pku.edu.cn/faculty/hansheng/). If you want to reach me, please email me at `jxshi0stat@gmail.com` .
+I am currently a Ph.D. candidate in Statistics from Guanghua School of Management, Peking University, under the supervision of [Prof. Hansheng Wang](https://en.gsm.pku.edu.cn/faculty/hansheng/). I am broadly interested in developing data-driven statistical methodologies for uncovering latent structures in high-dimensional data, with applications in economics and social sciences. My work has been applied to problems in computational law, micro-level economic indicators, and e-commerce sales analysis. If you want to reach me, please email me at `jxshi0stat@gmail.com` .
 
 
 Education
