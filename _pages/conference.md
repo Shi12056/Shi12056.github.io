@@ -13,7 +13,7 @@ redirect_from:
 
 |  Date | Conference  | Type  | Topic|
 |---|---|---|---|
-| 2026/4/10-2026/4/12  |  [2026年CSAYS年会暨第一届茆诗松统计教育博士生论坛](https://mp.weixin.qq.com/s/Gg4JHH9G4S44GQQ4WaZAJQ) | Talk| Factor SAR|
+| 2026/4/10-2026/4/12  |  [2026年CSAYS年会暨第一届茆诗松统计教育博士生论坛](https://mp.weixin.qq.com/s/Gg4JHH9G4S44GQQ4WaZAJQ) | Talk| [Factor SAR](https://github.com/Shi12056/FactorSAR) |
 | 2025/8/20-2025/8/23| [EcoSta 2025](https://www.cmstatistics.org/EcoSta2025/index.php) | Invited Talk |[MCR](https://github.com/Shi12056/MCR) |
 | 2025/6/29-2025/7/2  |  [The 45th International Symposium on Forecasting，ISF](https://forecasters.org/events/symposium-on-forecasting/) | Invited Talk| Network RF |
 | 2025/6/5| 第九届北大-清华统计论坛 | Poster| BinaryFactor |
