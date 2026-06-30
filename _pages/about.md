@@ -26,6 +26,7 @@ Research Interests
 Honors and Awards
 ======
 - **IMS Hannan Graduate Student Travel Award**, IMS, 2026
+- **2026 CWS Travel Award**, The Caucus for Women in Statistics and Data Science (CWS), 2026
 - **Merit Student**, Peking University, 2024 & 2025
 - **ICBC STAR Scholarship**, Peking University, 2025
 - **Lingrui Scholarship**, Guanghua School of Management, Peking University, 2024
