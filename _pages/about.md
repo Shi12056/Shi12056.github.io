@@ -21,11 +21,12 @@ Research Interests
 ======
 1. High-dimensional data analysis;
 2. Latent structure, factor models, network analysis;
-3. Applied statistics.
+3. Neural Network Analysis;
+4. Applied statistics.
 
 Honors and Awards
 ======
-- **IMS Hannan Graduate Student Travel Award**, IMS, 2026
+- **IMS Hannan Graduate Student Travel Award**, Institute of Mathematical Statistics (IMS), 2026
 - **2026 CWS Travel Award**, The Caucus for Women in Statistics and Data Science (CWS), 2026
 - **Merit Student**, Peking University, 2024 & 2025
 - **ICBC STAR Scholarship**, Peking University, 2025
