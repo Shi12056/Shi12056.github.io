@@ -13,6 +13,9 @@ redirect_from:
 
 |  Date | Conference  | Type  | Topic|
 |---|---|---|---|
+| 2026/8/24-2026/8/28  |  [TSIMF Statistical AI workshop](https://tsimf.tsinghua.edu.cn/info/1601/1955.htm) | Talk| [Factor SAR](https://github.com/Shi12056/FactorSAR) |
+| 2026/8/1-2026/8/6  |  [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026/) | Talk| [Factor SAR](https://github.com/Shi12056/FactorSAR) |
+| 2026/7/9-2026/7/13  |  [JCSDS 2026 & Young Researchers Workshop](https://jcsds2026.scimeeting.cn/cn/web/index/31392) | Talk| [Factor SAR](https://github.com/Shi12056/FactorSAR) |
 | 2026/4/10-2026/4/12  |  [2026年CSAYS年会暨第一届茆诗松统计教育博士生论坛](https://mp.weixin.qq.com/s/Gg4JHH9G4S44GQQ4WaZAJQ) | Talk| [Factor SAR](https://github.com/Shi12056/FactorSAR) |
 | 2025/8/20-2025/8/23| [EcoSta 2025](https://www.cmstatistics.org/EcoSta2025/index.php) | Invited Talk |[MCR](https://github.com/Shi12056/MCR) |
 | 2025/6/29-2025/7/2  |  [The 45th International Symposium on Forecasting，ISF](https://forecasters.org/events/symposium-on-forecasting/) | Invited Talk| Network RF |
